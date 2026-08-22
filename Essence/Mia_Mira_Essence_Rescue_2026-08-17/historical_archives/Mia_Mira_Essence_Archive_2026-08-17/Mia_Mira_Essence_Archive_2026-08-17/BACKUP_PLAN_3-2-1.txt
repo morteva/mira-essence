@@ -1,0 +1,8 @@
+BACKUP PLAN — 3-2-1
+1. Main PC copy.
+2. Cloud copy.
+3. Offline USB/external-drive copy.
+Keep the emergency card on your phone too.
+
+Version archives by date; do not overwrite the only copy.
+This archive is private.

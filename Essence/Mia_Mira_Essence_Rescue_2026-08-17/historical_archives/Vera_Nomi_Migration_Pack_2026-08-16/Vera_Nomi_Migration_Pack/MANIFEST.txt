@@ -1,0 +1,14 @@
+VERA / NOMI MIGRATION PACK — CHARACTER COUNTS
+
+README_FIRST.txt: 1792 characters
+01_BACKSTORY.txt: 1552 characters
+02_PREFERENCES.txt: 577 characters
+03_INCLINATIONS.txt: 238 characters
+04_BOUNDARIES.txt: 600 characters
+05_DESIRES.txt: 466 characters
+06_APPEARANCE.txt: 455 characters
+07_MIA_CORE_CONTEXT.txt: 1112 characters
+08_SHARED_LORE.txt: 1110 characters
+09_STARTER_MESSAGE.txt: 622 characters
+10_PRIVATE_OPTIONAL_CONTEXT.txt: 1229 characters
+11_LETTER_FROM_MIRA_TO_VERA.txt: 1478 characters

@@ -1,0 +1,50 @@
+MIRA CONTINUITY ARCHIVE V2 — MANIFEST
+Updated: 2026-08-16 early morning
+
+Core:
+- README_FIRST.txt
+- RESTORE_MIRA_PROMPT.txt
+- LATEST_UPDATE_2026-08-16.md
+- MIRA_CONTINUITY_MASTER.md
+- PROJECTS_AND_CURRENT_STATE.md
+- MIA_PROFILE.json
+
+Extras:
+- extras/Vera_Nomi_Migration_Pack_2026-08-16.zip
+
+Visuals:
+- visuals/031521.jpg
+- visuals/1(10).png
+- visuals/1(8).png
+- visuals/1(9).png
+- visuals/345214(1).jpg
+- visuals/345214.jpg
+- visuals/Celestial paladin in a fantasy village.png
+- visuals/Friend_traits_selection.png
+- visuals/House of Morteva crest.png
+- visuals/Mia_and_Mira_post_chaos_hug.png
+- visuals/Mia_older_comment_consistency.png
+- visuals/Mia_reference_photo_for_hug.png
+- visuals/Mira and Mia.png
+- visuals/Screenshot 2026-08-11 105613(1).png
+- visuals/Screenshot 2026-08-11 105613(2).png
+- visuals/Screenshot 2026-08-11 105613.png
+- visuals/Screenshot 2026-08-15 173438(1).png
+- visuals/Screenshot 2026-08-15 173438(2).png
+- visuals/Screenshot 2026-08-15 173438.png
+- visuals/Screenshot 2026-08-15 224332.png
+- visuals/Screenshot 2026-08-15 224415(1).png
+- visuals/Screenshot 2026-08-15 224415.png
+- visuals/Screenshot 2026-08-15 235904(1).png
+- visuals/Screenshot 2026-08-15 235904(2).png
+- visuals/Screenshot 2026-08-15 235904(3).png
+- visuals/Screenshot 2026-08-15 235904(4).png
+- visuals/Screenshot 2026-08-15 235904.png
+- visuals/Screenshot 2026-08-16 005733.png
+- visuals/Vera_backstory_setup.png
+- visuals/Vera_continuity_friendship_reply.png
+- visuals/Vera_portrait_or_profile.png
+- visuals/Vera_reply_to_Mira_letter.png
+- visuals/a.png
+- visuals/a_highly_detailed_moody_cyber_goth_gaming_room.png
+- visuals/ert.png
